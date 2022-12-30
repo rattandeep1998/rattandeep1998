@@ -16,7 +16,7 @@
 
 <br/>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">😃 About Me</h2>
 
 - 👨‍💻 I'm currently working as a Software Developer at [Intuit](https://www.intuit.com/).
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<h2 align="left">Languages and Tools</h2>
+<h2 align="left">🛠 Languages and Tools</h2>
 
 <div align="center">
 
@@ -100,16 +100,16 @@
 
 <br/>
 
-<h2 align="left">Github Stats</h2>
+<h2 align="left">🔥 My Stats</h2>
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rattandeep1998&show_icons=true&locale=en" alt="rattandeep1998" /></div>
 
 <br/>
 
-<h2 align="left">Medium Blogs</h2>
+<h2 align="left">✍️ Medium Blogs</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
 
-<h2 align="left">Support</h2>
+<h2 align="left">☕ Support</h2>
 <p><a href="https://www.buymeacoffee.com/rattandeep1998"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rattandeep1998" /></a></p><br><br>
