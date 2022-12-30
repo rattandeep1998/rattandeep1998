@@ -105,5 +105,11 @@
 
 <br/>
 
+<h2 align="left">Medium Blogs</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/rattandeep1998"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rattandeep1998" /></a></p><br><br>
