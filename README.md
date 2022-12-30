@@ -30,7 +30,7 @@
 
 <h2 align="left">Languages and Tools</h2>
 
-<p align="center">
+<div align="center">
 
 <table>
   
@@ -96,7 +96,7 @@
 
 </table>
 
-</p>
+</div>
 
 <br/>
 
