@@ -100,5 +100,10 @@
 
 <br/>
 
+<h2 align="left">Github Stats</h2>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rattandeep1998&show_icons=true&locale=en" alt="rattandeep1998" /></div>
+
+<br/>
+
 <h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/rattandeep1998"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rattandeep1998" /></a></p><br><br>
