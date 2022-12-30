@@ -101,7 +101,7 @@
 <br/>
 
 <h2 align="left">🔥 My Stats</h2>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rattandeep1998&show_icons=true&locale=en" alt="rattandeep1998" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rattandeep1998&show_icons=true&theme=highcontrast&locale=en" alt="rattandeep1998" /></div>
 
 <br/>
 
