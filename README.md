@@ -2,7 +2,7 @@
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Rattandeep Singh</h1> -->
 
 <h1 align="center">Hi 👋, I'm Rattandeep Singh</h1>
-<h3 align="center">An enthusiast Software Developer and Researcher working at the intersection of Technology and Sustainability</h3>
+<h3 align="center">An enthusiastic Software Developer and Researcher working at the intersection of Technology and Sustainability</h3>
 
 <!-- CONNECT WITH ME -->
 <p align="center">
