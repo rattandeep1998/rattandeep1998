@@ -107,6 +107,7 @@
 
 <h2 align="left">✍️ Medium Blogs</h2>
 <!-- BLOG-POST-LIST:START -->
+- [Effective Strategies for Optimising and Monitoring iOS App Size](https://medium.com/@rattandeep1998/effective-strategies-for-optimising-and-monitoring-ios-app-size-bc9d05d8cc68?source=rss-817ddfe7af20------2)
 - [Bar Charts: Mathematical Fundamental and SwiftUI Implementation](https://medium.com/@rattandeep1998/bar-charts-mathematical-fundamental-and-swiftui-implementation-f3394cb28495?source=rss-817ddfe7af20------2)
 <!-- BLOG-POST-LIST:END -->
 
