@@ -1,15 +1,15 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '* * * * *'
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: "4"
-          feed_list: 'https://medium.com/feed/@rattandeep1998'
+# name: Latest blog post workflow
+# on:
+#   schedule:
+#     # Runs every hour
+#     - cron: '* * * * *'
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           max_post_count: "4"
+#           feed_list: 'https://medium.com/feed/@rattandeep1998'
